@@ -5,4 +5,4 @@ const Login =()=>{
         <div>Login</div>
     )
 }
-export dèault Login
+export default Login
